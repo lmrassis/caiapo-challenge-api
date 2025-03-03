@@ -1,0 +1,64 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+**/packages/*
+*.nuspec
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+*.dbproj.schemaview
+*.sqlproj
+*.query
+*.dbproj
+
+# User-specific files
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Diagnostic files
+*.pdb
+*.mdb
+
+# Coverage files
+*.coverage
+*.coverlet*
+*.codecoverage
+
+# Visual Studio Code Extensions
+.vscode/extensions.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Azure
+*.publishsettings
+
+# Other files
+*.scc
+*.cache
+*.tst
+*.userprefs
+*.dotSettings
+*.dotCover

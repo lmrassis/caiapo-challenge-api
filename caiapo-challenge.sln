@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-weather-music", "ms-weather-music\ms-weather-music.csproj", "{272F9A40-17A4-4193-9F24-24AABC966900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-weather-music.Tests", "ms-weather-music.Tests\ms-weather-music.Tests.csproj", "{AF6DBE53-A8DD-46EE-BC2B-40561AE099A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272F9A40-17A4-4193-9F24-24AABC966900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272F9A40-17A4-4193-9F24-24AABC966900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272F9A40-17A4-4193-9F24-24AABC966900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272F9A40-17A4-4193-9F24-24AABC966900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6DBE53-A8DD-46EE-BC2B-40561AE099A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6DBE53-A8DD-46EE-BC2B-40561AE099A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6DBE53-A8DD-46EE-BC2B-40561AE099A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6DBE53-A8DD-46EE-BC2B-40561AE099A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

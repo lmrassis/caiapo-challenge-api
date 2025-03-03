@@ -1,0 +1,6 @@
+@ms_weather_music_HostAddress = http://localhost:5226
+
+GET {{ms_weather_music_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
